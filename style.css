@@ -1,0 +1,28 @@
+#submitbutton{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sortbutton{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin: 10px;
+}
+#displaynamewithcommas{
+    border: 1px solid orangered;
+    padding: 10px;
+    background-color: peru;
+    border-radius: 10px;
+    width: 50%;
+}
+#displaynamewithoutcommas{
+    border: 1px solid olivedrab;
+    padding: 10px;
+    background-color:palegreen;
+    border-radius: 10px;
+    width: 50%;
+}
